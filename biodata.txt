@@ -4,3 +4,4 @@ hobi: Futsal
 prodi: Teknik Informatika
 cita-cita: Profession Software Engineer
 Pendidikan: S1
+status: belum nikah
