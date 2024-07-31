@@ -2,3 +2,5 @@ nama: Abdullah Zakaria
 asal: Semarang
 hobi: Futsal
 prodi: Teknik Informatika
+cita-cita: Profession Software Engineer
+Pendidikan: S1
