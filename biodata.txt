@@ -1,0 +1,4 @@
+nama: Abdullah Zakaria
+asal: Semarang
+hobi: Futsal
+prodi: Teknik Informatika
